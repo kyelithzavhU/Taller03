@@ -1,10 +1,20 @@
-import java.applet.AudioClip;
-public class Proceso1 extends Thread{
-	
-	@Override
-	public void run(){
-		AudioClip sonido;
-		sonido = java.applet.Applet.newAudioClip(getClass().getResource("/audio/300_hu_hu_hu.wav"));
+
+lsdvcmsdc
+d
+csa
+dc
+ds
+sd
+c
+d
+cs
+d
+d
+cd
+dcs
+dc
+sdc
+		sonido = java.applet.Applet.newAudioCl2ip(getClass(caregaver).getResource("/audio/300_hu_hu_hu.wav"));
 		sonido.play();
 	}
 	
